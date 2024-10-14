@@ -133,7 +133,7 @@ GameObject:
   m_Component:
   - component: {fileID: 237154256}
   - component: {fileID: 237154255}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -309,7 +309,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1448510277}
   - component: {fileID: 1448510278}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: PlaySpace
   m_TagString: Untagged
   m_Icon: {fileID: 0}
