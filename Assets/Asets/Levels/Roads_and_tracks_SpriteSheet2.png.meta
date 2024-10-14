@@ -140,7 +140,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 80
+        y: 144
         width: 16
         height: 16
       alignment: 0
@@ -179,7 +179,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 16
-        y: 80
+        y: 144
         width: 16
         height: 16
       alignment: 0
@@ -204,7 +204,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 80
+        y: 144
         width: 16
         height: 16
       alignment: 0
@@ -229,7 +229,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 48
-        y: 80
+        y: 144
         width: 16
         height: 16
       alignment: 0
@@ -254,7 +254,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 80
+        y: 144
         width: 16
         height: 16
       alignment: 0
@@ -279,7 +279,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 80
-        y: 80
+        y: 144
         width: 16
         height: 16
       alignment: 0
@@ -317,8 +317,8 @@ TextureImporter:
       name: Roads_and_tracks_SpriteSheet2_6
       rect:
         serializedVersion: 2
-        x: 0
-        y: 64
+        x: 96
+        y: 144
         width: 16
         height: 16
       alignment: 0
@@ -342,8 +342,8 @@ TextureImporter:
       name: Roads_and_tracks_SpriteSheet2_7
       rect:
         serializedVersion: 2
-        x: 16
-        y: 64
+        x: 112
+        y: 144
         width: 16
         height: 16
       alignment: 0
@@ -363,8 +363,8 @@ TextureImporter:
       name: Roads_and_tracks_SpriteSheet2_8
       rect:
         serializedVersion: 2
-        x: 32
-        y: 64
+        x: 128
+        y: 144
         width: 16
         height: 16
       alignment: 0
@@ -388,8 +388,8 @@ TextureImporter:
       name: Roads_and_tracks_SpriteSheet2_9
       rect:
         serializedVersion: 2
-        x: 48
-        y: 64
+        x: 144
+        y: 144
         width: 16
         height: 16
       alignment: 0
@@ -413,8 +413,8 @@ TextureImporter:
       name: Roads_and_tracks_SpriteSheet2_10
       rect:
         serializedVersion: 2
-        x: 64
-        y: 64
+        x: 0
+        y: 128
         width: 16
         height: 16
       alignment: 0
@@ -434,8 +434,8 @@ TextureImporter:
       name: Roads_and_tracks_SpriteSheet2_11
       rect:
         serializedVersion: 2
-        x: 80
-        y: 64
+        x: 16
+        y: 128
         width: 16
         height: 16
       alignment: 0
@@ -459,8 +459,8 @@ TextureImporter:
       name: Roads_and_tracks_SpriteSheet2_12
       rect:
         serializedVersion: 2
-        x: 0
-        y: 48
+        x: 32
+        y: 128
         width: 16
         height: 16
       alignment: 0
@@ -484,8 +484,8 @@ TextureImporter:
       name: Roads_and_tracks_SpriteSheet2_13
       rect:
         serializedVersion: 2
-        x: 16
-        y: 48
+        x: 48
+        y: 128
         width: 16
         height: 16
       alignment: 0
@@ -510,7 +510,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 48
+        y: 128
         width: 16
         height: 16
       alignment: 0
@@ -535,7 +535,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 80
-        y: 48
+        y: 128
         width: 16
         height: 16
       alignment: 0
@@ -559,8 +559,8 @@ TextureImporter:
       name: Roads_and_tracks_SpriteSheet2_16
       rect:
         serializedVersion: 2
-        x: 0
-        y: 32
+        x: 96
+        y: 128
         width: 16
         height: 16
       alignment: 0
@@ -584,8 +584,8 @@ TextureImporter:
       name: Roads_and_tracks_SpriteSheet2_17
       rect:
         serializedVersion: 2
-        x: 16
-        y: 32
+        x: 112
+        y: 128
         width: 16
         height: 16
       alignment: 0
@@ -609,8 +609,8 @@ TextureImporter:
       name: Roads_and_tracks_SpriteSheet2_18
       rect:
         serializedVersion: 2
-        x: 64
-        y: 32
+        x: 128
+        y: 128
         width: 16
         height: 16
       alignment: 0
@@ -634,8 +634,8 @@ TextureImporter:
       name: Roads_and_tracks_SpriteSheet2_19
       rect:
         serializedVersion: 2
-        x: 80
-        y: 32
+        x: 144
+        y: 128
         width: 16
         height: 16
       alignment: 0
@@ -660,7 +660,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 16
+        y: 112
         width: 16
         height: 16
       alignment: 0
@@ -685,7 +685,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 16
-        y: 16
+        y: 112
         width: 16
         height: 16
       alignment: 0
@@ -706,7 +706,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 16
+        y: 112
         width: 16
         height: 16
       alignment: 0
@@ -731,7 +731,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 48
-        y: 16
+        y: 112
         width: 16
         height: 16
       alignment: 0
@@ -756,7 +756,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 64
-        y: 16
+        y: 112
         width: 16
         height: 16
       alignment: 0
@@ -777,7 +777,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 80
-        y: 16
+        y: 112
         width: 16
         height: 16
       alignment: 0
@@ -801,8 +801,8 @@ TextureImporter:
       name: Roads_and_tracks_SpriteSheet2_26
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
+        x: 96
+        y: 112
         width: 16
         height: 16
       alignment: 0
@@ -840,8 +840,8 @@ TextureImporter:
       name: Roads_and_tracks_SpriteSheet2_27
       rect:
         serializedVersion: 2
-        x: 16
-        y: 0
+        x: 112
+        y: 112
         width: 16
         height: 16
       alignment: 0
@@ -865,8 +865,8 @@ TextureImporter:
       name: Roads_and_tracks_SpriteSheet2_28
       rect:
         serializedVersion: 2
-        x: 32
-        y: 0
+        x: 128
+        y: 112
         width: 16
         height: 16
       alignment: 0
@@ -890,8 +890,8 @@ TextureImporter:
       name: Roads_and_tracks_SpriteSheet2_29
       rect:
         serializedVersion: 2
-        x: 48
-        y: 0
+        x: 144
+        y: 112
         width: 16
         height: 16
       alignment: 0
@@ -915,8 +915,8 @@ TextureImporter:
       name: Roads_and_tracks_SpriteSheet2_30
       rect:
         serializedVersion: 2
-        x: 64
-        y: 0
+        x: 0
+        y: 96
         width: 16
         height: 16
       alignment: 0
@@ -940,8 +940,8 @@ TextureImporter:
       name: Roads_and_tracks_SpriteSheet2_31
       rect:
         serializedVersion: 2
-        x: 80
-        y: 0
+        x: 16
+        y: 96
         width: 16
         height: 16
       alignment: 0
@@ -971,6 +971,1350 @@ TextureImporter:
       bones: []
       spriteID: f4d63a60e37d9b041bac5dda0b43380e
       internalID: -1308229832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153026687e22bd6488b8d267a0ce8ca6
+      internalID: -542141010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73fc08fa8767d34b86f5a0403d8e3d3
+      internalID: 1006015292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa003a731bde5ff4aa83bc5ad57765a2
+      internalID: 1779140324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23707b05f742a6498ec4eaeee7b3080
+      internalID: 82232212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a34ec022e967242963f29736fd5391
+      internalID: -191731713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_37
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06940a433f493e49bc9f60de0a2ff1a
+      internalID: 2043633403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fbd593725cc304c82d9c9972db751b
+      internalID: 1905407104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_39
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33de8e2e4ed6eee4e8d4a9c4e84f06ee
+      internalID: 138177163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f844a651c4f78ef4d997a5e3c2d2089b
+      internalID: 142704362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3baa12e19d6f0c947aad25f456f699c2
+      internalID: 1605533688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4b8d4d1ed2c8d4da3d90826f75c569
+      internalID: -403585918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e69f76171a6c604090157d3902b2530
+      internalID: -1087398325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_44
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715318c046c41994aa5ac99034240110
+      internalID: -1891209130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_45
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a7e54f5f1d47d4f9bb9aeab5d0b3cd
+      internalID: -1210253202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7aca673bd3b10d4386812178817cf95
+      internalID: 51543971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_47
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c186bd521b027d442b2a2c1f8590eaf2
+      internalID: 614235479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f3798f4d314a34681f5ab06557e20e
+      internalID: 113583407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d278ca71f4a1264eb4147c5f5784f45
+      internalID: -1839065444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb348e565fe969418e78d74b9e6b417
+      internalID: -859819561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd1b5f01d3b8e54880d879a781b825f
+      internalID: -2058860909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_52
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fe7c0c17645924ea5c762a57d45c0d
+      internalID: -453081425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_53
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6998fa50c485341a9a3aaacd79b8b4
+      internalID: 299683637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a48b37c7a148a146b854999c5472d8b
+      internalID: 37399135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_55
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a1805c6c0e5bf4fa6ab28b072231f4
+      internalID: 404586784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebc45f79280ac04fbf6cce677baf473
+      internalID: -1371357213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_57
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40334897cdf148446bac9a5d19880024
+      internalID: 1307810551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7fb5564d1955c4ba33d56b839d1043
+      internalID: -220975899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_59
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e80aeb41900964ea3edacadf7f189f
+      internalID: -559840358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3970317ae5f43498cc685f3a189400
+      internalID: 1510694667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ed2cad5dddebf4cad2b85ce3083a2e
+      internalID: -914612565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4ace7b88dc9a943b9df14de28017c8
+      internalID: 144985921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_63
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cf8f8c849c4b44b928720c6d332567
+      internalID: 1397782639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbf1a9e8f8a1604fbc8c43ad8f08253
+      internalID: 4938765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_65
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcbe4a76e7257a478d68e786a1796c7
+      internalID: -1662255809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2ce06f134366a4a963c8665544cdf5
+      internalID: 300520549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_67
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ee240abf256444eb4546de98ee8347
+      internalID: -1517469040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_68
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8636f647206c54b438b23a7363c39854
+      internalID: 1662392315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_69
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f907d3a30f0d9c43b0f2ea90051f34c
+      internalID: 106486376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a813e24707a709f4cba1bea4851b9995
+      internalID: -1853867866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_71
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efae0958fa4ee4f4fb35947e237b8a08
+      internalID: 1822762544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_72
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82426dc6f078c614ba79610cbe6b068c
+      internalID: 662470491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_73
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60f26ce560a00343a828ffa9abebcfa
+      internalID: -1495267193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6861e5fb1167aff4c8d327c5224701ae
+      internalID: -67919759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_75
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab64bc3cef153243ad563a3cd131773
+      internalID: -143735842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a869b2a051887d438a44586d9ec14df
+      internalID: 249123591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_77
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f46bb2acdb6da4d906193ef16bc9b3
+      internalID: 425198655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_78
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31793fee250633948bc93062cbaa3515
+      internalID: -827022535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_79
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1e196f2b5dd234799f7a4290bd71ad
+      internalID: 1219291047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_80
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d387d1f952040459af417c163be873
+      internalID: 168495112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_81
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aef1e7c36bf6104ca270d31ba67709b
+      internalID: 1184025017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_82
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f485fbb43253f554190e3e642ade9dae
+      internalID: 151815391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_83
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618be75c23530b34fb3189ee9bc32191
+      internalID: 2133635998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c518a2692b7bb47af60cd67917fff9
+      internalID: 1931844217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_85
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1575cf16a6d77cc43bf50f51b69bbdca
+      internalID: 553785651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2403a41ea51c7dd409984338a3f8cd74
+      internalID: 1466898026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_87
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023956f77af5a684087c5f9e7bf17d15
+      internalID: -108877656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_88
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4183bc5faa53d0844934a14f66d98f9f
+      internalID: -1122425028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_89
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99de7456cb6cbb94a8ae3db85ac6fa08
+      internalID: -1658410042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_90
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5079e96d2c228f45a5bf8df428abb6d
+      internalID: 1249699721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_91
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9321e282ea2198d498f6e8bc9bbee285
+      internalID: -907205065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_92
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c152f085d9a3f2c4792a9e9ce3f82441
+      internalID: -1663364836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_93
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a259bbab14870424794e8262569612ee
+      internalID: 416219829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_94
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a964ffe8e6739a644a5dc2cb88041efb
+      internalID: 1060141440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roads_and_tracks_SpriteSheet2_95
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ba458491acb3e42bffa66d64c7e510
+      internalID: 2142148596
       vertices: []
       indices: 
       edges: []
@@ -1013,12 +2357,75 @@ TextureImporter:
       Roads_and_tracks_SpriteSheet2_30: -779021215
       Roads_and_tracks_SpriteSheet2_31: -1308229832
       Roads_and_tracks_SpriteSheet2_32: -542141010
+      Roads_and_tracks_SpriteSheet2_33: 1006015292
+      Roads_and_tracks_SpriteSheet2_34: 1779140324
+      Roads_and_tracks_SpriteSheet2_35: 82232212
+      Roads_and_tracks_SpriteSheet2_36: -191731713
+      Roads_and_tracks_SpriteSheet2_37: 2043633403
+      Roads_and_tracks_SpriteSheet2_38: 1905407104
+      Roads_and_tracks_SpriteSheet2_39: 138177163
       Roads_and_tracks_SpriteSheet2_4: 366505787
+      Roads_and_tracks_SpriteSheet2_40: 142704362
+      Roads_and_tracks_SpriteSheet2_41: 1605533688
+      Roads_and_tracks_SpriteSheet2_42: -403585918
+      Roads_and_tracks_SpriteSheet2_43: -1087398325
+      Roads_and_tracks_SpriteSheet2_44: -1891209130
+      Roads_and_tracks_SpriteSheet2_45: -1210253202
+      Roads_and_tracks_SpriteSheet2_46: 51543971
+      Roads_and_tracks_SpriteSheet2_47: 614235479
+      Roads_and_tracks_SpriteSheet2_48: 113583407
+      Roads_and_tracks_SpriteSheet2_49: -1839065444
       Roads_and_tracks_SpriteSheet2_5: 2128264924
+      Roads_and_tracks_SpriteSheet2_50: -859819561
+      Roads_and_tracks_SpriteSheet2_51: -2058860909
+      Roads_and_tracks_SpriteSheet2_52: -453081425
+      Roads_and_tracks_SpriteSheet2_53: 299683637
+      Roads_and_tracks_SpriteSheet2_54: 37399135
+      Roads_and_tracks_SpriteSheet2_55: 404586784
+      Roads_and_tracks_SpriteSheet2_56: -1371357213
+      Roads_and_tracks_SpriteSheet2_57: 1307810551
+      Roads_and_tracks_SpriteSheet2_58: -220975899
+      Roads_and_tracks_SpriteSheet2_59: -559840358
       Roads_and_tracks_SpriteSheet2_6: -1597370544
+      Roads_and_tracks_SpriteSheet2_60: 1510694667
+      Roads_and_tracks_SpriteSheet2_61: -914612565
+      Roads_and_tracks_SpriteSheet2_62: 144985921
+      Roads_and_tracks_SpriteSheet2_63: 1397782639
+      Roads_and_tracks_SpriteSheet2_64: 4938765
+      Roads_and_tracks_SpriteSheet2_65: -1662255809
+      Roads_and_tracks_SpriteSheet2_66: 300520549
+      Roads_and_tracks_SpriteSheet2_67: -1517469040
+      Roads_and_tracks_SpriteSheet2_68: 1662392315
+      Roads_and_tracks_SpriteSheet2_69: 106486376
       Roads_and_tracks_SpriteSheet2_7: -742350332
+      Roads_and_tracks_SpriteSheet2_70: -1853867866
+      Roads_and_tracks_SpriteSheet2_71: 1822762544
+      Roads_and_tracks_SpriteSheet2_72: 662470491
+      Roads_and_tracks_SpriteSheet2_73: -1495267193
+      Roads_and_tracks_SpriteSheet2_74: -67919759
+      Roads_and_tracks_SpriteSheet2_75: -143735842
+      Roads_and_tracks_SpriteSheet2_76: 249123591
+      Roads_and_tracks_SpriteSheet2_77: 425198655
+      Roads_and_tracks_SpriteSheet2_78: -827022535
+      Roads_and_tracks_SpriteSheet2_79: 1219291047
       Roads_and_tracks_SpriteSheet2_8: -1950847413
+      Roads_and_tracks_SpriteSheet2_80: 168495112
+      Roads_and_tracks_SpriteSheet2_81: 1184025017
+      Roads_and_tracks_SpriteSheet2_82: 151815391
+      Roads_and_tracks_SpriteSheet2_83: 2133635998
+      Roads_and_tracks_SpriteSheet2_84: 1931844217
+      Roads_and_tracks_SpriteSheet2_85: 553785651
+      Roads_and_tracks_SpriteSheet2_86: 1466898026
+      Roads_and_tracks_SpriteSheet2_87: -108877656
+      Roads_and_tracks_SpriteSheet2_88: -1122425028
+      Roads_and_tracks_SpriteSheet2_89: -1658410042
       Roads_and_tracks_SpriteSheet2_9: 1835357659
+      Roads_and_tracks_SpriteSheet2_90: 1249699721
+      Roads_and_tracks_SpriteSheet2_91: -907205065
+      Roads_and_tracks_SpriteSheet2_92: -1663364836
+      Roads_and_tracks_SpriteSheet2_93: 416219829
+      Roads_and_tracks_SpriteSheet2_94: 1060141440
+      Roads_and_tracks_SpriteSheet2_95: 2142148596
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
