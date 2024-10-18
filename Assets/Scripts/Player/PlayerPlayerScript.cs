@@ -1,46 +1,54 @@
 using UnityEngine;
-using UnityEngine.InputSystem;
 
 public class Player : MonoBehaviour
 {
-    private Rigidbody2D rigidbody2D;
+    [Space]
+    [SerializeField]
+    private Transform Transform;                                                                                                    
+    private Vector3 vector;
+    private int speed;
 
-    private float speed = 0f;
-
-    private Vector2 vector2 = Vector2.zero;
-
-    private void Awake()
-    {
-        rigidbody2D = GetComponent<Rigidbody2D>();
-    }
 
     private void Update()
     {
-        Debug.Log(speed);
-    }
+        transform.position += vector;
 
-    private void FixedUpdate()
-    {
-        rigidbody2D.velocity = new Vector2(vector2.x * speed, vector2.y * speed);
-    }
-
-    public void OnMove(InputAction.CallbackContext context)
-    {
-        vector2 = context.ReadValue<Vector2>();
-
-        if (context.started)
+        if (Input.GetKey(KeyCode.W))
         {
-            while (true)
-            {
-                speed += 10f;
-            }        
+            vector += (Transform.up * Time.deltaTime) * 0.03f;
         }
-        else if (context.canceled)
+        else
         {
-            while (true)
-            {
-                speed -= 10f;
-            }
+            Braking();
+        }
+
+        if (Input.GetKey(KeyCode.S))
+        {
+            vector -= (Transform.up * Time.deltaTime) * 0.02f;
+        }
+        else
+        {
+            Braking();
+        }
+
+        if (Input.GetKey(KeyCode.Space))
+        {
+            Braking();
+        }
+
+        if (Input.GetKey(KeyCode.A))
+        {
+            transform.Rotate(0, 0, 0.35f);
+        }
+        if (Input.GetKey(KeyCode.D))
+        {
+            transform.Rotate(0, 0, -0.35f);
         }
     }
+
+    private void Braking()
+    {
+        vector = Vector3.Lerp(vector, Vector3.zero, Time.deltaTime);
+    }
+    
 }
