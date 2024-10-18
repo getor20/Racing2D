@@ -1,54 +1,30 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class Player : MonoBehaviour
 {
+    private Rigidbody2D rd2D;
+    private Vector2 vector;
+
     [Space]
     [SerializeField]
-    private Transform Transform;                                                                                                    
-    private Vector3 vector;
-    private int speed;
+    private float verticalSpeed = 3f;
+    [Space]
+    [SerializeField]
+    private float horizontalSpeed = 2f;
 
-
-    private void Update()
+    private void Awake()
     {
-        transform.position += vector;
-
-        if (Input.GetKey(KeyCode.W))
-        {
-            vector += (Transform.up * Time.deltaTime) * 0.03f;
-        }
-        else
-        {
-            Braking();
-        }
-
-        if (Input.GetKey(KeyCode.S))
-        {
-            vector -= (Transform.up * Time.deltaTime) * 0.02f;
-        }
-        else
-        {
-            Braking();
-        }
-
-        if (Input.GetKey(KeyCode.Space))
-        {
-            Braking();
-        }
-
-        if (Input.GetKey(KeyCode.A))
-        {
-            transform.Rotate(0, 0, 0.35f);
-        }
-        if (Input.GetKey(KeyCode.D))
-        {
-            transform.Rotate(0, 0, -0.35f);
-        }
+        rd2D = GetComponent<Rigidbody2D>();
     }
 
-    private void Braking()
+    private void FixedUpdate()
     {
-        vector = Vector3.Lerp(vector, Vector3.zero, Time.deltaTime);
+        rd2D.velocity = new Vector2(vector.x * horizontalSpeed, vector.y * verticalSpeed);
     }
-    
+
+    public void Move(InputAction.CallbackContext context)
+    {
+        vector = context.ReadValue<Vector2>();
+    }
 }
