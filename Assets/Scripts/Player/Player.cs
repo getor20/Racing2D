@@ -8,7 +8,7 @@ public class Player : MonoBehaviour
 
     [Space]
     [SerializeField]
-    private float verticalSpeed = 3f;
+    private float verticalSpeed = 5f;
     [Space]
     [SerializeField]
     private float horizontalSpeed = 2f;
