@@ -3,11 +3,11 @@ using UnityEngine;
 public class TouchingDirections : MonoBehaviour
 {
     private BoxCollider2D TouchingBoxCollider;
-    public bool OnGround { get; private set; }
+    private bool OnGround { get;  set; }
 
     private NPS nps;
 
-    private RaycastHit2D[] hits = new RaycastHit2D[5];
+    private RaycastHit2D[] hits = new RaycastHit2D[1];
     private float graundDistans = 0.05f;
 
     private void Awake()
@@ -22,7 +22,7 @@ public class TouchingDirections : MonoBehaviour
         CheckGround();
         if (OnGround)
         {
-            nps.Destroy();
+            /*nps.Destroy();*/
             Debug.Log(TouchingBoxCollider.name);
         }
     }
