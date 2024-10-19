@@ -123,62 +123,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1 &33288951 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3114292398578818921, guid: 57e1927102bbd55499405821f287b662, type: 3}
-  m_PrefabInstance: {fileID: 1025564744245089311}
-  m_PrefabAsset: {fileID: 0}
---- !u!331 &33288955
-SpriteMask:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 33288951}
-  m_Enabled: 1
-  m_CastShadows: 1
-  m_ReceiveShadows: 1
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10758, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 0}
-  m_MaskAlphaCutoff: 0.2
-  m_FrontSortingLayerID: 0
-  m_BackSortingLayerID: 0
-  m_FrontSortingLayer: 0
-  m_BackSortingLayer: 0
-  m_FrontSortingOrder: 0
-  m_BackSortingOrder: 0
-  m_IsCustomRangeActive: 0
-  m_SpriteSortPoint: 0
 --- !u!1 &337420598
 GameObject:
   m_ObjectHideFlags: 0
@@ -38946,10 +38890,7 @@ PrefabInstance:
     - {fileID: 3596936551447787007, guid: 57e1927102bbd55499405821f287b662, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 3114292398578818921, guid: 57e1927102bbd55499405821f287b662, type: 3}
-      insertIndex: 1
-      addedObject: {fileID: 33288955}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 57e1927102bbd55499405821f287b662, type: 3}
 --- !u!1001 &1932901645022231944
 PrefabInstance:
@@ -39037,15 +38978,7 @@ PrefabInstance:
       value: Untagged
       objectReference: {fileID: 0}
     - target: {fileID: 7148218776075308740, guid: 5b03b2e34140d944f9aaad8dc3a9b3b9, type: 3}
-      propertyPath: m_Mass
-      value: 4.46875
-      objectReference: {fileID: 0}
-    - target: {fileID: 7148218776075308740, guid: 5b03b2e34140d944f9aaad8dc3a9b3b9, type: 3}
-      propertyPath: m_Constraints
-      value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: 7148218776075308740, guid: 5b03b2e34140d944f9aaad8dc3a9b3b9, type: 3}
-      propertyPath: m_UseAutoMass
+      propertyPath: m_Interpolate
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8020352463231400811, guid: 5b03b2e34140d944f9aaad8dc3a9b3b9, type: 3}
