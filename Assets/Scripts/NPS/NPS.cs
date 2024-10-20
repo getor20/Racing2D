@@ -10,8 +10,5 @@ public class NPS : MonoBehaviour
     private void Update()
     {
         transform.Translate(Vector2.down * speed * Time.deltaTime);
-
     }
-
-    
 }

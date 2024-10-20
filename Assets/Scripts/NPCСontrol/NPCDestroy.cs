@@ -9,8 +9,7 @@ public class NPCDestroy : MonoBehaviour
 
     private void Update()
     {
-        transform.position = new Vector2(transform.position.x, player.transform.position.y - followingDistance);
-
+        transform.position = new Vector2(transform.position.x, player.transform.position.y - followingDistance);    
     }
 
     private void OnTriggerEnter2D(Collider2D collision)

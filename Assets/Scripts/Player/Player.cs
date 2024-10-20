@@ -10,14 +10,16 @@ public class Player : MonoBehaviour
 
     [Space]
     [SerializeField]
-    private float verticalSpeed = 0f;
+    private float verticalSpeed = -1f;
     [Space]
     [SerializeField]
-    private float horizontalSpeed = 3f;
+    private float horizontalSpeed = 2f;
+    private Transform transformi;
 
     private void Awake()
     {
         rd2D = GetComponent<Rigidbody2D>();
+        tr = GetComponent<Transform>();
     }
 
     private void FixedUpdate()
@@ -31,8 +33,8 @@ public class Player : MonoBehaviour
         vector = context.ReadValue<Vector2>();
     }
 
-    void Update()
+    public void verticalSpeedPlus()
     {
-        Debug.Log("Пройденное КМ: " + transform.position.y);
+        verticalSpeed += 1;
     }
 }
