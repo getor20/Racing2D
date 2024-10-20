@@ -1,3 +1,4 @@
+using UnityEditor.iOS.Xcode;
 using UnityEngine;
 
 public class NPS : MonoBehaviour
@@ -6,7 +7,6 @@ public class NPS : MonoBehaviour
     [SerializeField]
     private float speed = 1;    
     private Transform Transform;
-
     private void Update()
     {
         transform.Translate(Vector2.down * speed * Time.deltaTime);

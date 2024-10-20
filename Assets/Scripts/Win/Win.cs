@@ -1,12 +1,12 @@
 using UnityEngine;
 
-public class mSensor : MonoBehaviour
+public class Win : MonoBehaviour
 {
     [SerializeField]
-    private Player player;
-        
+    private UI uI;
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        player.verticalSpeed += 1;
+        uI.Win();
     }
 }
