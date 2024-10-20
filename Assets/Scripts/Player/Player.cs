@@ -6,8 +6,6 @@ public class Player : MonoBehaviour
 {
     private Rigidbody2D rd2D;
     private Vector2 vector;
-    private Transform tr;
-    private BoxCollider2D boxCollider;
 
     [Space]
     [SerializeField]
@@ -15,15 +13,12 @@ public class Player : MonoBehaviour
     [Space]
     [SerializeField]
     private float horizontalSpeed = 2f;
-    private Transform transformi;
     [SerializeField]
     private UI ui;
 
     private void Awake()
     {
         rd2D = GetComponent<Rigidbody2D>();
-        tr = GetComponent<Transform>();
-        boxCollider = GetComponent<BoxCollider2D>();
     }
 
     private void FixedUpdate()
@@ -49,6 +44,5 @@ public class Player : MonoBehaviour
         {
             ui.GameOver();
         }
-        
     }
 }

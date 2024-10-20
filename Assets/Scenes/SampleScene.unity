@@ -40574,7 +40574,7 @@ PrefabInstance:
       objectReference: {fileID: 2123542641}
     - target: {fileID: 8020352463231400811, guid: 5b03b2e34140d944f9aaad8dc3a9b3b9, type: 3}
       propertyPath: verticalSpeed
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 8482362590265436251, guid: 5b03b2e34140d944f9aaad8dc3a9b3b9, type: 3}
       propertyPath: m_ActionEvents.Array.size
