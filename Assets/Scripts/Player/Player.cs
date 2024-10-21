@@ -1,4 +1,3 @@
-using Unity.VisualScripting.Dependencies.NCalc;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -9,7 +8,7 @@ public class Player : MonoBehaviour
 
     [Space]
     [SerializeField]
-    public float verticalSpeed = -1f;
+    public float verticalSpeed = 1f;
     [Space]
     [SerializeField]
     private float horizontalSpeed = 2f;
@@ -39,7 +38,6 @@ public class Player : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        Debug.Log(collision.name);
         if (collision.name == "NPS(Clone)")
         {
             ui.GameOver();
