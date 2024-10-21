@@ -5,7 +5,7 @@ public class NPCDestroy : MonoBehaviour
     [SerializeField]
     private Player player;
     [SerializeField]
-    private int followingDistance = 6;
+    private int followingDistance = 7;
 
     private void Update()
     {

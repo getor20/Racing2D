@@ -31,9 +31,10 @@ public class Player : MonoBehaviour
         vector = context.ReadValue<Vector2>();
     }
 
-    public void verticalSpeedPlus()
+    public void SpeedPlus()
     {
         verticalSpeed += 1;
+        horizontalSpeed += 1;
     }
 
     private void OnTriggerEnter2D(Collider2D collision)

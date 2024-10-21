@@ -11,7 +11,7 @@ public class NPCNPSSpawn : MonoBehaviour
     [Space]
     [SerializeField]
     private int followingDistance = 6;
-    private float[] positions = {0.75f, -0.75f};
+    private float[] positions = { 0.375f, -0.375f };
 
     private void Update()
     {

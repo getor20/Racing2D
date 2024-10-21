@@ -46,7 +46,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 0}
-  followingDistance: 6
+  followingDistance: 7
 --- !u!61 &7520674098671922408
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -90,5 +90,5 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 4, y: 1}
+  m_Size: {x: 4, y: 0.5}
   m_EdgeRadius: 0

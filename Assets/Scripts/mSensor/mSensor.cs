@@ -7,6 +7,6 @@ public class mSensor : MonoBehaviour
         
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        player.verticalSpeedPlus();
+        player.SpeedPlus();
     }
 }
