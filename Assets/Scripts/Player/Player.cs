@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.SocialPlatforms;
 
 public class Player : MonoBehaviour
 {
@@ -12,12 +13,14 @@ public class Player : MonoBehaviour
     [Space]
     [SerializeField]
     private float horizontalSpeed = 2f;
+    public SpriteRenderer spriteRenderer;
     [SerializeField]
     private UI ui;
 
     private void Awake()
     {
         rd2D = GetComponent<Rigidbody2D>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
     private void FixedUpdate()
